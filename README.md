@@ -1,4 +1,4 @@
-# SmartATM-Java
+# MINIBANK-Java
 
 A simple console-based ATM system built with *Java* that simulates basic banking operations. Users can create an account, log in, deposit, withdraw, transfer funds, and check their balance.
 
